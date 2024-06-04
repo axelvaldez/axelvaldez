@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @axelvaldez
 
-[I have a website](https://axelvaldez.mx), [A newsletter](https://theheadphonist.com) and [a blog about HTML and CSS](https://htmlycss.com).
+[I have a personal website](https://axelvaldez.mx), and [a blog about HTML and CSS](https://htmlycss.com). On social, [I'm on Instagram](https://instagram.com/axelvaldez).
 
 I’m very interested in HTML, CSS, JavaScript, blogs, the open web and podcasting. When AFK I hang out with my kids, bake bread and cook yummy things.
 
